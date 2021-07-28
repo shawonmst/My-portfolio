@@ -1,0 +1,176 @@
+    * {
+        margin: 0 auto;
+        padding: 0;
+        max-width: 100%;
+    }
+    /* navbar start */
+    
+    .container {
+        width: 90%;
+    }
+    
+    .logo {
+        display: inline;
+    }
+    
+    .logo-t {
+        display: inline;
+        font-size: 50px;
+        color: rgb(91, 151, 200);
+    }
+    
+    .navbar {
+        float: right;
+        margin-top: 15px;
+    }
+    
+    .navbar a {
+        font-size: 20px;
+        color: rgb(98, 98, 98);
+        text-decoration: none;
+        padding: 20px;
+    }
+    
+    .navbar a:hover {
+        border-bottom: 1px solid rgb(91, 151, 200);
+    }
+    /* navbar end */
+    /* banner1 start */
+    
+    .banner1 {
+        overflow: hidden;
+        margin-top: 5%;
+        width: 90%;
+    }
+    
+    .content-half {
+        width: 50%;
+        float: left;
+    }
+    
+    .content-half h1 {
+        font-size: 45px;
+        color: rgb(19, 19, 92);
+    }
+    
+    .s-color {
+        color: rgb(91, 151, 200);
+    }
+    
+    .content-half p {
+        font-size: 20px;
+        color: rgb(95, 95, 95);
+    }
+    
+    .btn {
+        padding: 15px 30px;
+        border-radius: 5px;
+        font-weight: bold;
+        text-decoration: none;
+        border: 1px solid rgb(126, 124, 124);
+        color: rgb(59, 59, 59);
+    }
+    
+    .btn:hover {
+        background-image: linear-gradient(180deg, rgb(91, 151, 200), rgb(68, 68, 209));
+        border: none;
+        color: white;
+    }
+    /* banner1 end */
+    /* banner2 start */
+    
+    .a-ban {
+        margin-top: 10%;
+        overflow: hidden;
+        width: 90%;
+    }
+    /* banner2 end */
+    /* working project start  */
+    
+    .work {
+        background-color: rgb(246, 245, 245);
+        height: 700px;
+        width: 100%;
+        margin-top: 20px;
+    }
+    
+    .work .head-n {
+        color: rgb(19, 19, 92);
+        text-align: center;
+        padding: 70px;
+        font-size: 35px;
+    }
+    
+    .pic-1 {
+        width: 25%;
+        margin: 30px;
+        padding: 25px;
+        background-color: white;
+        border-radius: 10%;
+        height: 370px;
+        float: left;
+        border: 1px white;
+        box-shadow: 20px 20px 30px rgb(223, 223, 223);
+    }
+    
+    .pic-1 img {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    
+    .pic-1 h1 {
+        padding: 10px;
+        color: rgb(97, 97, 97);
+    }
+    
+    .i-text {
+        font-size: 17px;
+        padding: 10px;
+        color: rgb(97, 97, 97);
+    }
+    /* working project end */
+    /* inquiry start */
+    
+    .inquiry {
+        height: 400px;
+    }
+    
+    .inquiry-box {
+        background-image: linear-gradient(360deg, rgb(91, 151, 200), rgb(68, 68, 209));
+        height: 150px;
+        width: 70%;
+        border-radius: 50px;
+        margin-top: 80px;
+    }
+    
+    .inquiry-box h1 {
+        float: left;
+        color: white;
+        font-size: 35px;
+        padding: 55px 30px 50px 30px;
+    }
+    
+    .inquiry-box a {
+        float: right;
+        margin: 48px;
+        color: white;
+    }
+    
+    .contact-add {
+        text-align: center;
+        padding-top: 60px;
+        font-size: 28px;
+        color: rgb(92, 91, 91);
+    }
+    
+    .icon-box {
+        text-align: center;
+        padding-top: 30px;
+    }
+    
+    .icon-box img {
+        width: 40px;
+        height: 40px;
+        padding: 20px;
+    }
+    /* <!-- inqueiry end --> */
